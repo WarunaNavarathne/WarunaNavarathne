@@ -46,10 +46,9 @@
 
 
 [facebook]: https://www.facebook.com/waruna.navarathne/
-[linkedin]:#
+[instagram]:#
 [linkedin]: https://www.linkedin.com/in/warunanavarathne/
 [webdevplaylist]:#
 [jsplaylist]:#
 [cssplaylist]:#
 [reactplaylist]:#
-
