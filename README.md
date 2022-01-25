@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
@@ -47,9 +45,8 @@
 
 
 
-[facebook]: https://www.facebook.com/kavindu.pethum/
-[instagram]: https://www.instagram.com/omi_sheeran/
-[linkedin]: https://www.linkedin.com/in/pathumhewage/
+[facebook]: httpshttps://www.facebook.com/waruna.navarathne/
+[linkedin]: https://www.linkedin.com/in/warunanavarathne/
 [webdevplaylist]:#
 [jsplaylist]:#
 [cssplaylist]:#
