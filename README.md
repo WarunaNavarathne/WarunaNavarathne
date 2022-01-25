@@ -45,7 +45,7 @@
 
 
 
-[facebook]: httpshttps://www.facebook.com/waruna.navarathne/
+[facebook]: https://www.facebook.com/waruna.navarathne/
 [linkedin]: https://www.linkedin.com/in/warunanavarathne/
 [webdevplaylist]:#
 [jsplaylist]:#
